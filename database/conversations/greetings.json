@@ -1,0 +1,14 @@
+[
+    {
+        "statements": [
+            "bom dia",
+            "boa tarde!",
+            "boa noite!",
+            "olá",
+            "oi",
+            "e aí",
+            "tudo bem?"
+        ],
+        "response": "Olá, sou o Assistente Twin. Como posso te ajudar?"
+    }
+]

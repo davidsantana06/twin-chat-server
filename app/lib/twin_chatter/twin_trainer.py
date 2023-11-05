@@ -35,8 +35,8 @@ class TwinTrainer:
     def train(self) -> None:
         for conversation in self.conversations:
             for entry in conversation:
-                questions = entry.get('questions')
-                answer = entry.get('answer')
+                statements = entry.get('statements')
+                response = entry.get('response')
 
-                for question in questions:
-                    self.list_trainer.train([question, answer])
+                for statement in statements:
+                    self.list_trainer.train([statement, response])

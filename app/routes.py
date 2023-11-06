@@ -12,6 +12,6 @@ def index():
     return RedirectResponse(url='/docs')
 
 
-@router.get('/response/{message}')
-def response(message: str):
-    return {'response': get_response(message)}
+@router.get('/response/{statement}')
+def response(statement: str):
+    return {'response': get_response(statement)}

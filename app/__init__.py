@@ -14,7 +14,7 @@ def create_app() -> FastAPI:
     app = FastAPI(
         title='TwinChat API',
         description=(
-            'The TwinChat is a straightforward platform for providing ' + \
+            'TwinChat is a straightforward platform for providing ' + \
             'answers to fitness-related questions in Portuguese (PT-BR).'
         ),
         version='0.1.0'

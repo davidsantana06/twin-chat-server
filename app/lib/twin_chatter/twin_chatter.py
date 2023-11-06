@@ -10,7 +10,7 @@ class TwinChatter:
 
     def __init__(self) -> None:
         self.chat_bot = ChatBot(
-            'TwinChat',
+            'TwinChatter',
             database_uri=f'sqlite:///{TWIN_CHATTER_DATABASE}?check_same_thread=False',
             read_only=True,
             statement_comparison_function=self.compare_messages,
@@ -29,6 +29,6 @@ class TwinChatter:
 
         return confidence
 
-    def get_response(self, question: str) -> str:
-        response = self.chat_bot.get_response(question.lower())
+    def get_response(self, statement: str) -> str:
+        response = self.chat_bot.get_response(statement.lower())
         return response.text if (response.confidence >= self.MININUM_CONFIDENCE) else ''

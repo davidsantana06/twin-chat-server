@@ -1,0 +1,938 @@
+[
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino reto barra?"
+        ],
+        "response": "Você pode fazer Supino Reto Halteres; Supino Reto Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino reto halteres?"
+        ],
+        "response": "Você pode fazer Supino Reto Barra; Supino Reto Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino reto smith?"
+        ],
+        "response": "Você pode fazer Supino Reto Barra; Supino Reto Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino inclinado barra?"
+        ],
+        "response": "Você pode fazer Supino Inclinado Halteres; Supino Inclinado Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino inclinado halteres?"
+        ],
+        "response": "Você pode fazer Supino Inclinado Barra; Supino Inclinado Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino inclinado smith?"
+        ],
+        "response": "Você pode fazer Supino Inclinado Barra; Supino Inclinado Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino declinado barra?"
+        ],
+        "response": "Você pode fazer Supino Declinado Halteres; Supino Declinado Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino declinado halteres?"
+        ],
+        "response": "Você pode fazer Supino Declinado Smith; Supino Declinado Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino declinado smith?"
+        ],
+        "response": "Você pode fazer Supino Declinado Halteres; Supino Declinado Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de crucifixo reto halteres?"
+        ],
+        "response": "Você pode fazer Cross-Over Polia Média; Peck Deck ou Crucifixo Na Máquina."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de crucifixo inclinado halteres?"
+        ],
+        "response": "Você pode fazer Cross-Over Polia Baixa."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de crucifixo declinado halteres?"
+        ],
+        "response": "Você pode fazer Cross-Over Polia Alta."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de cross-over polia alta?"
+        ],
+        "response": "Você pode fazer Crucifixo Declinado Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de cross-over polia média?"
+        ],
+        "response": "Você pode fazer Crucifixo Reto Halteres; Peck Deck ou Crucifixo Na Máquina."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de cross-over polia baixa?"
+        ],
+        "response": "Você pode fazer Crucifixo Inclinado Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de peck deck ou crucifixo na máquina?"
+        ],
+        "response": "Você pode fazer Cross-Over Polia Média; Crucifixo Reto Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de flexão de braço?"
+        ],
+        "response": "Você pode fazer Supino Reto Halteres; Supino Reto Smith; Supino Reto Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de barra fixa peg pronada?"
+        ],
+        "response": "Você pode fazer Puxada Vertical Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de barra fixa peg supinada?"
+        ],
+        "response": "Você pode fazer Puxada Vertical Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de barra fixa com triângulo?"
+        ],
+        "response": "Você pode fazer Puxada Vertical Peg Neutra; Puxada Vertical Com Triângulo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de puxada vertical peg pronada?"
+        ],
+        "response": "Você pode fazer Barra Fixa Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de puxada vertical peg supinada?"
+        ],
+        "response": "Você pode fazer Barra Fixa Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de puxada vertical peg neutra?"
+        ],
+        "response": "Você pode fazer Barra Fixa Com Triângulo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de puxada vertical com triângulo?"
+        ],
+        "response": "Você pode fazer Barra Fixa Com Triângulo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada curvada peg pronada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Halteres Peg Pronada; Remada Máquina Peg Pronada; Remada Cross Peg Pronada; Remada Unilateral Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada curvada peg supinada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Halteres Peg Supinada; Remada Máquina Peg Supinada; Remada Cross Peg Supinada; Remada Unilateral Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada curvada cavalinho?"
+        ],
+        "response": "Você pode fazer Remada Máquina Peg Neutra; Remada Cross Peg Neutra; Remada Unilateral Peg Neutra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada curvada halteres peg pronada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Pronada; Remada Cross Peg Pronada; Remada Unilateral Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada curvada halteres peg supinada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Supinada; Remada Máquina Peg Supinada; Remada Cross Peg Supinada; Remada Unilateral Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada máquina peg pronada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Pronada; Remada Curvada Halteres Peg Pronada; Remada Cross Peg Pronada; Remada Unilateral Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada máquina peg supinada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Supinada; Remada Curvada Halteres Peg Supinada; Remada Cross Peg Supinada; Remada Unilateral Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada máquina peg neutra?"
+        ],
+        "response": "Você pode fazer Remada Curvada Cavalinho; Remada Cross Peg Neutra; Remada Unilateral Peg Neutra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada cross peg pronada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Pronada; Remada Curvada Halteres Peg Pronada; Remada Máquina Peg Pronada; Remada Cross Peg Pronada; Remada Unilateral Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada cross peg supinada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Supinada; Remada Curvada Halteres Peg Supinada; Remada Máquina Peg Supinada; Remada Unilateral Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada cross peg neutra?"
+        ],
+        "response": "Você pode fazer Remada Curvada Cavalinho; Remada Máquina Peg Neutra; Remada Unilateral Peg Neutra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada unilateral peg pronada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Pronada; Remada Curvada Halteres Peg Pronada; Remada Máquina Peg Pronada; Remada Cross Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada unilateral peg supinada?"
+        ],
+        "response": "Você pode fazer Remada Curvada Peg Supinada; Remada Curvada Halteres Peg Supinada; Remada Máquina Peg Supinada; Remada Cross Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada unilateral peg neutra?"
+        ],
+        "response": "Você pode fazer Remada Curvada Cavalinho; Remada Máquina Peg Neutra; Remada Cross Peg Neutra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de pull-down barra?"
+        ],
+        "response": "Você pode fazer Pull-Down Cross Peg Pronada; Pull-Down Cross Peg Supinada; Pull-Down Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de pull-down cross peg pronada?"
+        ],
+        "response": "Você pode fazer Pull-Down Barra; Pull-Down Cross Peg Supinada; Pull-Down Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de pull-down cross peg supinada?"
+        ],
+        "response": "Você pode fazer Pull-Down Barra; Pull-Down Cross Peg Pronada; Pull-Down Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de pull-down cross corda?"
+        ],
+        "response": "Você pode fazer Pull-Down Barra; Pull-Down Cross Peg Pronada; Pull-Down Cross Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação lateral halteres?"
+        ],
+        "response": "Você pode fazer Elevação Lateral Sentado Halteres; Elevação Lateral Cross Posterior; Elevação Lateral Cross Anterior; Elevação Lateral Unilateral Banco Inclinado."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação lateral sentado halteres?"
+        ],
+        "response": "Você pode fazer Elevação Lateral Halteres; Elevação Lateral Sentado Halteres; Elevação Lateral Cross Posterior; Elevação Lateral Cross Anterior; Elevação Lateral Unilateral Banco Inclinado."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação lateral cross posterior?"
+        ],
+        "response": "Você pode fazer Elevação Lateral Halteres; Elevação Lateral Sentado Halteres; Elevação Lateral Cross Anterior; Elevação Lateral Unilateral Banco Inclinado."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação lateral cross anterior?"
+        ],
+        "response": "Você pode fazer Elevação Lateral Halteres; Elevação Lateral Sentado Halteres; Elevação Lateral Cross Posterior; Elevação Lateral Unilateral Banco Inclinado."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação lateral unilateral banco inclinado?"
+        ],
+        "response": "Você pode fazer Elevação Lateral Halteres; Elevação Lateral Sentado Halteres; Elevação Lateral Cross Posterior; Elevação Lateral Cross Anterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal barra peg pronada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Halteres Peg Pronada; Elevação Frontal Cross Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal barra peg supinada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Halteres Peg Supinada; Elevação Frontal Cross Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal halteres peg pronada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Barra Peg Pronada; Elevação Frontal Cross Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal halteres peg supinada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Barra Peg Supinada; Elevação Frontal Cross Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal halteres peg neutra?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Cross Corda; Elevação Frontal Anilha; Elevação Frontal Cruzada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal cross peg pronada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Barra Peg Pronada; Elevação Frontal Halteres Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal cross peg supinada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Barra Peg Supinada; Elevação Frontal Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal cross corda?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Halteres Peg Neutra; Elevação Frontal Anilha; Elevação Frontal Cruzada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal anilha?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Halteres Peg Neutra; Elevação Frontal Cross Corda; Elevação Frontal Cruzada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação frontal cruzada?"
+        ],
+        "response": "Você pode fazer Elevação Frontal Halteres Peg Neutra; Elevação Frontal Cross Corda; Elevação Frontal Anilha."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de crucifixo inverso halteres?"
+        ],
+        "response": "Você pode fazer Crucifixo Inverso Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de crucifixo inverso cross?"
+        ],
+        "response": "Você pode fazer Crucifixo Inverso Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento halteres?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Anterior; Desenvolvimento Posterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento anterior?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Halteres; Desenvolvimento Posterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento posterior?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Halteres; Desenvolvimento Anterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento militar?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Halteres; Desenvolvimento Anterior; Desenvolvimento Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento smith?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Halteres; Desenvolvimento Anterior; Desenvolvimento Máquina."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de desenvolvimento máquina?"
+        ],
+        "response": "Você pode fazer Desenvolvimento Halteres; Desenvolvimento Anterior; Desenvolvimento Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de manguito rotador externo barra?"
+        ],
+        "response": "Você pode fazer Manguito Rotador Externo Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de manguito rotador externo halteres?"
+        ],
+        "response": "Você pode fazer Manguito Rotador Externo Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de encolhimento barra anterior?"
+        ],
+        "response": "Você pode fazer Encolhimento Halteres; Encolhimento Smith Anterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de encolhimento barra posterior?"
+        ],
+        "response": "Você pode fazer Encolhimento Halteres; Encolhimento Smith Posterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de encolhimento halteres?"
+        ],
+        "response": "Você pode fazer Encolhimento Barra Anterior; Encolhimento Barra Posterior."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de encolhimento smith anterior?"
+        ],
+        "response": "Você pode fazer Encolhimento Barra Anterior; Encolhimento Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de encolhimento smith posterior?"
+        ],
+        "response": "Você pode fazer Encolhimento Barra Posterior; Encolhimento Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada alta halteres?"
+        ],
+        "response": "Você pode fazer Remada Alta Barra; Remada Alta Cross; Remada Alta Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada alta barra?"
+        ],
+        "response": "Você pode fazer Remada Alta Halteres; Remada Alta Cross; Remada Alta Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada alta cross?"
+        ],
+        "response": "Você pode fazer Remada Alta Halteres; Remada Alta Barra; Remada Alta Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de remada alta smith?"
+        ],
+        "response": "Você pode fazer Remada Alta Halteres; Remada Alta Barra; Remada Alta Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de paralelas?"
+        ],
+        "response": "Você pode fazer Mergulho; Supino Fechado; Flexão De Braço Fechada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de mergulho?"
+        ],
+        "response": "Você pode fazer Paralelas; Supino Fechado; Flexão De Braço Fechada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de supino fechado?"
+        ],
+        "response": "Você pode fazer Paralelas; Mergulho; Flexão De Braço Fechada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca testa barra peg pronada?"
+        ],
+        "response": "Você pode fazer Tríceps Pulley Peg Pronada; Tríceps Pulley Unilateral Peg Pronada; Rosca Francesa Barra Peg Pronada;."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca testa barra peg supinada?"
+        ],
+        "response": "Você pode fazer Tríceps Pulley Peg Supinada; Rosca Testa Halteres Peg Supinada; Tríceps Pulley Unilateral Peg Supinada; Rosca Francesa Barra Peg Supinada; Rosca Francesa Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca testa halteres peg supinada?"
+        ],
+        "response": "Você pode fazer Tríceps Pulley Peg Supinada; Tríceps Pulley Unilateral Peg Supinada; Rosca Francesa Barra Peg Supinada; Rosca Francesa Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca testa halteres peg neutra?"
+        ],
+        "response": "Você pode fazer Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda; Tríceps Coice Bilateral Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps pulley corda?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps pulley peg pronada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Pronada; Tríceps Pulley Unilateral Peg Pronada; Rosca Francesa Barra Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps pulley peg supinada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Supinada; Rosca Testa Halteres Peg Supinada; Tríceps Pulley Unilateral Peg Supinada; Rosca Francesa Barra Peg Supinada; Rosca Francesa Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps pulley unilateral peg pronada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Pronada; Tríceps Pulley Peg Pronada; Rosca Francesa Barra Peg Pronada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps pulley unilateral peg supinada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Supinada; Rosca Testa Halteres Peg Supinada; Tríceps Pulley Peg Supinada; Rosca Francesa Barra Peg Supinada; Rosca Francesa Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa anilha?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Tríceps Pulley Corda; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa barra peg pronada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Pronada; Tríceps Pulley Peg Pronada; Tríceps Pulley Unilateral Peg Pronada;."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa barra peg supinada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Supinada; Rosca Testa Halteres Peg Supinada; Tríceps Pulley Peg Supinada; Rosca Francesa Halteres Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa halteres peg neutra?"
+        ],
+        "response": "Você pode fazer Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa halteres peg supinada?"
+        ],
+        "response": "Você pode fazer Rosca Testa Barra Peg Supinada; Rosca Testa Halteres Peg Supinada; Tríceps Pulley Peg Supinada; Tríceps Pulley Unilateral Peg Supinada; Rosca Francesa Barra Peg Supinada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca francesa cross corda?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps coice bilateral halteres?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps coice unilateral halteres?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de tríceps coice unilateral cross?"
+        ],
+        "response": "Você pode fazer Rosca Testa Halteres Peg Neutra; Tríceps Pulley Corda; Rosca Francesa Anilha; Rosca Francesa Halteres Peg Neutra; Rosca Francesa Cross Corda."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de flexão de braço fechada?"
+        ],
+        "response": "Você pode fazer Mergulho; Supino Fechado; Paralelas."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca direta barra reta ou barra w?"
+        ],
+        "response": "Você pode fazer Rosca Direta Halteres; Rosca Direta Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca direta halteres?"
+        ],
+        "response": "Você pode fazer Rosca Direta Barra Reta ou Barra W; Rosca Direta Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca direta cross?"
+        ],
+        "response": "Você pode fazer Rosca Direta Barra Reta ou Barra W; Rosca Direta Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca martelo barra h?"
+        ],
+        "response": "Você pode fazer Rosca Martelo Halteres; Rosca Martelo Corda Cross; Rosca Concentrada Martelo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca martelo halteres?"
+        ],
+        "response": "Você pode fazer Rosca Martelo Barra H; Rosca Martelo Corda Cross; Rosca Concentrada Martelo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca martelo corda cross?"
+        ],
+        "response": "Você pode fazer Rosca Martelo Barra H; Rosca Martelo Halteres; Rosca Concentrada Martelo."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca alternada halteres?"
+        ],
+        "response": "Você pode fazer Rosca Alternada Cross-Over."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca alternada cross-over?"
+        ],
+        "response": "Você pode fazer Rosca Alternada Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca scott halteres?"
+        ],
+        "response": "Você pode fazer Rosca Scott Barra ou Barra W; Rosca Scott Máquina; Rosca Concentrada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca scott barra ou barra w?"
+        ],
+        "response": "Você pode fazer Rosca Scott Halteres; Rosca Scott Máquina; Rosca Concentrada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca scott máquina?"
+        ],
+        "response": "Você pode fazer Rosca Scott Halteres; Rosca Scott Barra ou Barra W; Rosca Concentrada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca concentrada?"
+        ],
+        "response": "Você pode fazer Rosca Scott Halteres; Rosca Scott Barra ou Barra W; Rosca Scott Máquina."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca concentrada martelo?"
+        ],
+        "response": "Você pode fazer Rosca Martelo Barra H; Rosca Martelo Halteres; Rosca Martelo Corda Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de extensão de punho barra sentado?"
+        ],
+        "response": "Você pode fazer Extensão de Punho Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de extensão de punho cross?"
+        ],
+        "response": "Você pode fazer Extensão de Punho Barra Sentado."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca inversa barra?"
+        ],
+        "response": "Você pode fazer Rosca Inversa Cross; Rosca Inversa Alternada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca inversa cross?"
+        ],
+        "response": "Você pode fazer Rosca Inversa Barra; Rosca Inversa Alternada."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de rosca inversa alternada?"
+        ],
+        "response": "Você pode fazer Rosca Inversa Barra; Rosca Inversa Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento livre?"
+        ],
+        "response": "Você pode fazer Agachamento Hack; Agachamento Smith; Agachamento Halteres; Leg Press."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento livre frontal?"
+        ],
+        "response": "Você pode fazer Agachamento Smith Frontal."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento hack?"
+        ],
+        "response": "Você pode fazer Agachamento Livre; Agachamento Smith; Agachamento Halteres; Leg Press."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento smith?"
+        ],
+        "response": "Você pode fazer Agachamento Livre; Agachamento Hack; Agachamento Halteres; Leg Press."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento smith frontal?"
+        ],
+        "response": "Você pode fazer Agachamento Livre Frontal."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento halteres?"
+        ],
+        "response": "Você pode fazer Agachamento Livre; Agachamento Hack; Agachamento Smith; Leg Press."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento adutores?"
+        ],
+        "response": "Você pode fazer Leg Press Adutores; Cadeira Adutora."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de passada barra?"
+        ],
+        "response": "Você pode fazer Passada Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de passada halteres?"
+        ],
+        "response": "Você pode fazer Passada Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de afundos barra?"
+        ],
+        "response": "Você pode fazer Afundos Halteres; Afundos Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de afundos halteres?"
+        ],
+        "response": "Você pode fazer Afundos Barra; Afundos Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de afundos smith?"
+        ],
+        "response": "Você pode fazer Afundos Barra; Afundos Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de mesa flexora?"
+        ],
+        "response": "Você pode fazer Cadeira Flexora; Flexor Vertical."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de cadeira flexora?"
+        ],
+        "response": "Você pode fazer Flexor Vertical; Mesa Flexora."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de flexor vertical?"
+        ],
+        "response": "Você pode fazer Cadeira Flexora; Mesa Flexora."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de leg press?"
+        ],
+        "response": "Você pode fazer Agachamento Livre; Agachamento Hack; Agachamento Smith; Agachamento Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de leg press adutores?"
+        ],
+        "response": "Você pode fazer Agachamento Adutores; Cadeira Adutora."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de stiff barra?"
+        ],
+        "response": "Você pode fazer Stiff Halteres; Stiff Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de stiff halteres?"
+        ],
+        "response": "Você pode fazer Stiff Smith; Stiff Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de stiff smith?"
+        ],
+        "response": "Você pode fazer Stiff Halteres; Stiff Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento bulgaro halteres?"
+        ],
+        "response": "Você pode fazer Agachamento Bulgaro Barra."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de agachamento bulgaro barra?"
+        ],
+        "response": "Você pode fazer Agachamento Bulgaro Halteres."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de cadeira adutora?"
+        ],
+        "response": "Você pode fazer Agachamento Adutores; Leg Press Adutores."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de 4 apoios joelho estendido?"
+        ],
+        "response": "Você pode fazer Glúteos Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de 4 apoios joelho flexionado?"
+        ],
+        "response": "Você pode fazer Glúteos Graviton; Glúteos Smith; Glúteos Máquina; Glúteos Cross."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de glúteos graviton?"
+        ],
+        "response": "Você pode fazer 4 Apoios Joelho Flexionado; Glúteos Máquina; Glúteos Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de glúteos máquina?"
+        ],
+        "response": "Você pode fazer 4 Apoios Joelho Flexionado; Glúteos Graviton; Glúteos Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de glúteos smith?"
+        ],
+        "response": "Você pode fazer 4 Apoios Joelho Flexionado; Glúteos Graviton; Glúteos Máquina."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de glúteos cross?"
+        ],
+        "response": "Você pode fazer 4 Apoios Joelho Estendido."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação pélvica barra?"
+        ],
+        "response": "Você pode fazer Elevação Pélvica Halter; Elevação Pélvica Anilha; Elevação Pélvica Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação pélvica halter?"
+        ],
+        "response": "Você pode fazer Elevação Pélvica Barra; Elevação Pélvica Anilha; Elevação Pélvica Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação pélvica anilha?"
+        ],
+        "response": "Você pode fazer Elevação Pélvica Barra; Elevação Pélvica Halter; Elevação Pélvica Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de elevação pélvica smith?"
+        ],
+        "response": "Você pode fazer Elevação Pélvica Barra; Elevação Pélvica Halter; Elevação Pélvica Anilha."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos em pé máquina?"
+        ],
+        "response": "Você pode fazer Gêmeos Em Pé Hack; Gêmeos Em Pé Smith; Gêmeos Em Pé Livre."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos em pé hack?"
+        ],
+        "response": "Você pode fazer Gêmeos Em Pé Máquina; Gêmeos Em Pé Smith; Gêmeos Em Pé Livre."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos em pé smith?"
+        ],
+        "response": "Você pode fazer Gêmeos Em Pé Máquina; Gêmeos Em Pé Hack; Gêmeos Em Pé Livre."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos em pé livre?"
+        ],
+        "response": "Você pode fazer Gêmeos Em Pé Máquina; Gêmeos Em Pé Hack; Gêmeos Em Pé Smith."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos sentado máquina?"
+        ],
+        "response": "Você pode fazer Gêmeos Sentado Smith; Gêmeos Sentado Livre."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos sentado smith?"
+        ],
+        "response": "Você pode fazer Gêmeos Sentado Máquina; Gêmeos Sentado Livre."
+    },
+    {
+        "statements": [
+            "qual exercício devo fazer no lugar de gêmeos sentado livre?"
+        ],
+        "response": "Você pode fazer Gêmeos Sentado Máquina; Gêmeos Sentado Smith."
+    }
+]

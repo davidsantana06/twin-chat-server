@@ -1,6 +1,21 @@
 [
     {
         "statements": [
+            "Quais são os principais exercícios de musculação?",
+            "Quais são os exercícios mais importantes na musculação?",
+            "Quais exercícios devo incluir em meu treino de musculação?",
+            "Quais são os exercícios fundamentais para o treino de força?",
+            "Quais são os exercícios essenciais na musculação?",
+            "Quais exercícios são recomendados para iniciantes na musculação?",
+            "Que exercícios devo fazer para desenvolver músculos?",
+            "Quais são os exercícios-chave em um programa de musculação?",
+            "Quais exercícios são ideais para ganhar massa muscular?",
+            "Quais são os exercícios mais eficazes na musculação?"
+        ],
+        "response": "Os principais exercícios de musculação incluem agachamento, supino, levantamento terra, barra fixa, rosca direta, desenvolvimento com halteres, entre outros."
+    },
+    {
+        "statements": [
             "qual é o melhor horário para treinar?",
             "em qual horário eu devo treinar?",
             "existe um horário ideal para treinar?",
@@ -29,6 +44,21 @@
         ],
         "response": "Para ganhar massa muscular, é crucial manter uma dieta equilibrada com um superávit calórico. Inicialmente, você pode começar com uma dieta contendo 4g/Kg de carboidratos, 2g/Kg de proteínas e 1g/Kg de gorduras. À medida que progredir, poderá ajustar esses valores, aumentando a ingestão de carboidratos e mantendo os demais macronutrientes."
     },
+    {
+        "statements": [
+            "Quais suplementos são mais indicados para ganhar músculos?",
+            "Quais suplementos são recomendados para o ganho de massa muscular?",
+            "Quais são os suplementos eficazes para o desenvolvimento de músculos?",
+            "Quais suplementos devo tomar para aumentar minha massa muscular?",
+            "Quais são os suplementos mais utilizados no ganho de músculos?",
+            "Que suplementos são ideais para o crescimento muscular?",
+            "Quais suplementos são sugeridos para melhorar o desempenho nos treinos?",
+            "Quais são os suplementos essenciais para o ganho de força e massa muscular?",
+            "Quais suplementos são populares entre os fisiculturistas para o crescimento muscular?",
+            "Quais suplementos são recomendados para atletas em busca de hipertrofia?"
+        ],
+        "response": "Os suplementos mais indicados para ganhar músculos incluem creatina, beta alanina e proteínas em pó (caso haja alguma deficiência na meta de proteína diária). Esses suplementos podem ajudar no aumento da massa muscular, na recuperação e no desempenho durante os treinos. No entanto, é importante consultar um profissional de saúde ou nutricionista antes de adicionar suplementos à sua dieta"
+    },    
     {
         "statements": [
             "fiquei doente, o que fazer?",

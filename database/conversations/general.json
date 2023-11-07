@@ -27,7 +27,7 @@
             "existe uma hora melhor para o treino?",
             "em que período do dia é mais vantajoso treinar?"
         ],
-        "response": "quando se trata do horário ideal para treinar, não há uma regra geral. O que importa é o que funciona melhor para você. O ideal é escolher o momento em que você se sinta mais disposto e tenha mais tempo disponível."
+        "response": "Quando se trata do horário ideal para treinar, não há uma regra geral. O que importa é o que funciona melhor para você. O ideal é escolher o momento em que você se sinta mais disposto e tenha mais tempo disponível."
     },
     {
         "statements": [
@@ -57,7 +57,7 @@
             "quais suplementos são populares entre os fisiculturistas para o crescimento muscular?",
             "quais suplementos são recomendados para atletas em busca de hipertrofia?"
         ],
-        "response": "Os suplementos mais indicados para ganhar músculos incluem creatina, beta alanina e proteínas em pó (caso haja alguma deficiência na meta de proteína diária). Esses suplementos podem ajudar no aumento da massa muscular, na recuperação e no desempenho durante os treinos. No entanto, é importante consultar um profissional de saúde ou nutricionista antes de adicionar suplementos à sua dieta"
+        "response": "Os suplementos mais indicados para ganhar músculos incluem creatina, beta alanina e proteínas em pó (caso haja alguma deficiência na meta de proteína diária). Esses suplementos podem ajudar no aumento da massa muscular, na recuperação e no desempenho durante os treinos. No entanto, é importante consultar um profissional de saúde ou nutricionista antes de adicionar suplementos à sua dieta."
     },    
     {
         "statements": [

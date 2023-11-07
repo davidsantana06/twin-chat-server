@@ -8,7 +8,7 @@ router = APIRouter()
 
 
 @router.get('/')
-def index():
+def root():
     return RedirectResponse(url='/docs')
 
 

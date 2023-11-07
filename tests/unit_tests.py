@@ -20,7 +20,7 @@ class TwinChatterResponseTests(TestCase):
     def assert_equal(self, statements: List[str], expected_response: str) -> None:
         for statement in statements:
             response = self.twin_chatter.get_response(statement)
-            self.assertIn(expected_response, response)
+            self.assertEqual(expected_response, response)
 
     def test_01_main_exercises(self) -> None:
         self.assert_equal(

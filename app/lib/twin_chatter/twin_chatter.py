@@ -31,4 +31,4 @@ class TwinChatter:
 
     def get_response(self, statement: str) -> str:
         response = self.chat_bot.get_response(statement.lower())
-        return response.text if (response.confidence >= self.MININUM_CONFIDENCE) else ''
+        return response.text if (response.confidence >= self.MININUM_CONFIDENCE) else 'Não entendi a sua pergunta.'

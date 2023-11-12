@@ -2,20 +2,22 @@ from chatterbot import ChatBot
 from chatterbot.conversation import Statement
 from difflib import SequenceMatcher
 
-from app.constants import TWIN_CHATTER_DATABASE
-
 
 class TwinChatter:
     MININUM_CONFIDENCE = .5
 
-    def __init__(self) -> None:
-        self.chat_bot = ChatBot(
+    def __init__(self, database_file: str) -> None:
+        self.__chat_bot = ChatBot(
             'TwinChatter',
-            database_uri=f'sqlite:///{TWIN_CHATTER_DATABASE}?check_same_thread=False',
+            database_uri=f'sqlite:///{database_file}?check_same_thread=False',
             read_only=True,
             statement_comparison_function=self.compare_messages,
             logic_adapters=[{'import_path': 'chatterbot.logic.BestMatch'}]
         )
+
+    @property
+    def chat_bot(self) -> ChatBot:
+        return self.__chat_bot
 
     @staticmethod
     def compare_messages(input_message: Statement, candidate_message: Statement) -> float:
@@ -30,5 +32,5 @@ class TwinChatter:
         return confidence
 
     def get_response(self, statement: str) -> str:
-        response = self.chat_bot.get_response(statement.lower())
+        response = self.__chat_bot.get_response(statement.lower())
         return response.text if (response.confidence >= self.MININUM_CONFIDENCE) else 'Não entendi a sua pergunta.'

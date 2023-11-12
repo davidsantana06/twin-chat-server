@@ -1,7 +1,8 @@
+from app.constants import TWIN_CHATTER_DATABASE
 from app.lib.twin_chatter import TwinChatter
 
 
-twin_chatter = TwinChatter()
+twin_chatter = TwinChatter(TWIN_CHATTER_DATABASE)
 
 
 def get_response(statement: str):

@@ -2,12 +2,17 @@
     {
         "statements": [
             "bom dia",
-            "boa tarde!",
-            "boa noite!",
+            "boa tarde",
+            "boa noite",
             "olá",
-            "oi",
             "e aí",
-            "tudo bem?"
+            "oi",
+            "oi, tudo bem?",
+            "oi, assistente",
+            "oi, bot",
+            "oi, twin",
+            "tudo bem?",
+            "como você está?"
         ],
         "response": "Olá, sou o Assistente Twin. Como posso te ajudar?"
     }

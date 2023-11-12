@@ -10,12 +10,13 @@ ROOT_FOLDER = path.abspath(
 )
 sys.path.append(ROOT_FOLDER)
 
+from app.constants import TWIN_CHATTER_DATABASE
 from app.lib.twin_chatter import TwinChatter
 
 
-class TwinChatterResponseTests(TestCase):
+class TwinChatterResponseTest(TestCase):
     def setUp(self):
-        self.twin_chatter = TwinChatter()
+        self.twin_chatter = TwinChatter(TWIN_CHATTER_DATABASE)
 
     def assert_equal(self, statements: List[str], expected_response: str) -> None:
         for statement in statements:
@@ -72,12 +73,12 @@ class TwinChatterResponseTests(TestCase):
 
 
 if __name__ == '__main__':
-    test_loader = TestLoader()
     test_suite = TestSuite()
+    test_loader = TestLoader()
     test_runner = TextTestRunner()
 
     test_suite.addTest(
-        test_loader.loadTestsFromTestCase(TwinChatterResponseTests)
+        test_loader.loadTestsFromTestCase(TwinChatterResponseTest)
     )
 
     test_runner.run(test_suite)

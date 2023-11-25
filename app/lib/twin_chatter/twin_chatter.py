@@ -11,7 +11,7 @@ class TwinChatter:
             'TwinChatter',
             database_uri=f'sqlite:///{database_file}?check_same_thread=False',
             read_only=True,
-            statement_comparison_function=self.compare_messages,
+            statement_comparison_function=self.compare_statements,
             logic_adapters=[{'import_path': 'chatterbot.logic.BestMatch'}]
         )
 
@@ -20,10 +20,10 @@ class TwinChatter:
         return self.__chat_bot
 
     @staticmethod
-    def compare_messages(input_message: Statement, candidate_message: Statement) -> float:
+    def compare_statements(input_statement: Statement, candidate_statement: Statement) -> float:
         confidence = .0
-        input_text = input_message.text
-        candidate_text = candidate_message.text
+        input_text = input_statement.text
+        candidate_text = candidate_statement.text
 
         if input_text and candidate_text:
             confidence = SequenceMatcher(None, input_text, candidate_text)

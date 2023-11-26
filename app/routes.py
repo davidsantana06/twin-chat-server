@@ -14,4 +14,4 @@ def root():
 
 @router.get('/response/{statement}')
 def response(statement: str):
-    return {'response': get_response(statement)}
+    return get_response(statement)

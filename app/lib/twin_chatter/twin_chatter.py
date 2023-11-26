@@ -26,8 +26,7 @@ class TwinChatter:
         candidate_text = candidate_statement.text
 
         if input_text and candidate_text:
-            confidence = SequenceMatcher(None, input_text, candidate_text)
-            confidence = round(confidence.ratio(), 2)
+            confidence = round(SequenceMatcher(a=input_text, b=candidate_text).ratio(), 2)
 
         return confidence
 
